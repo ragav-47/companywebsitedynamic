@@ -200,7 +200,7 @@ admin.site.register(products,productsAdmin)
 
 ![output](./static/img/validate3.png)
 
-![output](./static/img/validate.png)
+![output](./static/img/validate4.png)
 
 
 ## RESULT:
